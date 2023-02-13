@@ -1,12 +1,8 @@
-### 来了
-
-#### 随便坐，随便看。
-
 啤酒🍺 饮料🥤 矿水泉🧊；
 
 花生🥜 瓜子🌻 八宝粥🥣；
 
-要什么自己拿。
+随意。
 
 <!--
 **dahui4dev/dahui4dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
